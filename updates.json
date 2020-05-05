@@ -1,0 +1,21 @@
+{
+	"addons": {
+		"{036622ca-6f9b-4c98-b406-6b6b1a0df5aa}": {
+			"updates": [
+				{
+					"version": "1.0",
+					"update_link": "https://manojkumar-it.github.io/Extension_Testing/%7B036622ca-6f9b-4c98-b406-6b6b1a0df5aa%7D_1.0.xpi"
+				},
+				{
+					"version": "1.6",
+					"update_link": "https://manojkumar-it.github.io/Extension_Testing/%7B036622ca-6f9b-4c98-b406-6b6b1a0df5aa%7D_1.1.xpi",
+					"browser_specific_settings": {
+						"gecko": {
+							"strict_min_version": "48"
+						}
+					}
+				}
+			]
+		}
+	}
+}
